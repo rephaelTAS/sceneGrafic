@@ -1,0 +1,16 @@
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/bin/Debug/net10.0/sceneGrafic.Axaml.deps.json
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/bin/Debug/net10.0/sceneGrafic.Axaml.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/bin/Debug/net10.0/sceneGrafic.Axaml.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/bin/Debug/net10.0/sceneGrafic.Core.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/bin/Debug/net10.0/sceneGrafic.Core.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.csproj.AssemblyReference.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.GeneratedMSBuildEditorConfig.editorconfig
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.AssemblyInfoInputs.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.AssemblyInfo.cs
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.csproj.CoreCompileInputs.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGra.3F08AD37.Up2Date
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/refint/sceneGrafic.Axaml.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/sceneGrafic.Axaml.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/ref/sceneGrafic.Axaml.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache

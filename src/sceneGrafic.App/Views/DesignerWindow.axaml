@@ -1,0 +1,35 @@
+<!-- sceneGrafic.App v0.1 -->
+<!-- Janela principal: Toolbox | DesignSurface | Inspector (vazio por enquanto). -->
+
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:toolbox="clr-namespace:SceneGrafic.Controls.Toolbox;assembly=sceneGrafic.Controls"
+        xmlns:design="clr-namespace:SceneGrafic.Controls.Design;assembly=sceneGrafic.Controls"
+        x:Class="SceneGrafic.App.Views.DesignerWindow"
+        Title="sceneGrafic"
+        Width="1200" Height="800">
+
+    <Grid ColumnDefinitions="220,*,280">
+
+        <toolbox:Toolbox Grid.Column="0"
+                         x:Name="ToolboxPanel"
+                         Background="#F4F4F4"/>
+
+        <ScrollViewer Grid.Column="1"
+                      HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollBarVisibility="Auto"
+                      Background="#E8E8E8">
+            <design:DesignSurface x:Name="Surface"
+                                  Margin="20"
+                                  Background="White"/>
+        </ScrollViewer>
+
+        <Border Grid.Column="2"
+                Background="#F4F4F4"
+                Padding="8">
+            <TextBlock Text="Properties (Fase 2)" Foreground="#666"/>
+        </Border>
+
+    </Grid>
+
+</Window>

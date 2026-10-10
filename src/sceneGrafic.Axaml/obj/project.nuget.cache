@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEq/8uV9ooo=",
+  "success": true,
+  "projectFilePath": "/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Axaml/sceneGrafic.Axaml.csproj",
+  "expectedPackageFiles": [
+    "/home/rtas/.nuget/packages/avalonia/12.1.3/avalonia.12.1.3.nupkg.sha512",
+    "/home/rtas/.nuget/packages/avalonia.buildservices/11.3.2/avalonia.buildservices.11.3.2.nupkg.sha512",
+    "/home/rtas/.nuget/packages/avalonia.remote.protocol/12.1.3/avalonia.remote.protocol.12.1.3.nupkg.sha512",
+    "/home/rtas/.nuget/packages/microcom.runtime/0.11.6/microcom.runtime.0.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}

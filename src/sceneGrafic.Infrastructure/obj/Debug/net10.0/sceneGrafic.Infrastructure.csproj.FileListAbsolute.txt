@@ -1,0 +1,16 @@
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/bin/Debug/net10.0/sceneGrafic.Infrastructure.deps.json
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/bin/Debug/net10.0/sceneGrafic.Infrastructure.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/bin/Debug/net10.0/sceneGrafic.Infrastructure.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/bin/Debug/net10.0/sceneGrafic.Core.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/bin/Debug/net10.0/sceneGrafic.Core.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.csproj.AssemblyReference.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.AssemblyInfoInputs.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.AssemblyInfo.cs
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.csproj.CoreCompileInputs.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGra.3DCE0B73.Up2Date
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/refint/sceneGrafic.Infrastructure.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/sceneGrafic.Infrastructure.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/ref/sceneGrafic.Infrastructure.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Infrastructure/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache

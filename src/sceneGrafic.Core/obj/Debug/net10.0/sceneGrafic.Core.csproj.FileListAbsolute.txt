@@ -1,0 +1,13 @@
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/bin/Debug/net10.0/sceneGrafic.Core.deps.json
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/bin/Debug/net10.0/sceneGrafic.Core.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/bin/Debug/net10.0/sceneGrafic.Core.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.AssemblyInfoInputs.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.AssemblyInfo.cs
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.csproj.CoreCompileInputs.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/refint/sceneGrafic.Core.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.pdb
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/ref/sceneGrafic.Core.dll
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/sceneGrafic.Core.csproj.AssemblyReference.cache
+/home/rtas/02_IdeaProjects/CSharp/sceneGrafic/src/sceneGrafic.Core/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
